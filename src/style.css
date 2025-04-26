@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
     margin: 20px;
-    background-color: #f4f4f4;
+    background-color: rgb(131, 131, 180);
     align-items: center;
   display: flex;
   flex-direction: column;
@@ -35,7 +35,7 @@ select {
 
 button {
   padding: 10px 15px;
-    background-color: #a728a5;
+    background-color: rgb(255, 0, 0);
   color: white;
   border: none;
     border-radius: 4px;
